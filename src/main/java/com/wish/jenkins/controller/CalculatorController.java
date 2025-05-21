@@ -1,7 +1,7 @@
 package com.wish.jenkins.controller;
 
-import com.wish.bootproject.dto.CalculatorDTO;
-import com.wish.bootproject.service.CalculatorService;
+import com.wish.jenkins.dto.CalculatorDTO;
+import com.wish.jenkins.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

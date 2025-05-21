@@ -1,6 +1,7 @@
 package com.wish.jenkins.service;
 
-import com.wish.bootproject.dto.CalculatorDTO;
+
+import com.wish.jenkins.dto.CalculatorDTO;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
